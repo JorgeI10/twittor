@@ -1,5 +1,5 @@
 {
-    "short-name": "Twittor",
+    "short_name": "Twittor",
     "name": "Chat twittor",
     "start_url": ".",
     "background_color": "#3498db",
